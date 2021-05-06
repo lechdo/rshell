@@ -1,0 +1,2 @@
+CONFIG_ENCODING = "ISO-8859-1"
+CONFIG_FILE_NAME = "config.ini"

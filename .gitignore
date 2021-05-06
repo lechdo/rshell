@@ -1,0 +1,12 @@
+.idea
+/.project
+/output.xml
+/report.html
+/log.html
+/libspecs
+/venv
+*.pyc
+*.html
+/*.html
+__pycache__
+*.doctree

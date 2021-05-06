@@ -1,0 +1,8 @@
+cx_Oracle==7.0.0
+redis==3.2.1
+six==1.14.0
+dateutils
+xlsxWriter==1.2.6
+robotframework==3.1.2
+robotframework-redislibrary==0.3
+robotframework_databaselibrary==1.1.1
