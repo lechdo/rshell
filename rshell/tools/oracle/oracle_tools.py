@@ -64,7 +64,3 @@ def table_columns(table_name):
     # execution de l'action en utilisant la fonction scope
     result = _oracle_action(table_name, condition=select)
     return result
-
-
-if __name__ == '__main__':
-    table_columns("T_UO")

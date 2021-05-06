@@ -127,7 +127,3 @@ def date_after_meta_release(months, days=1, date_format="%Y%m%d"):
     release = date_meta_release()
     new_date = release + relativedelta(months=int(months), days=int(days) - 1)
     return new_date.strftime(date_format)
-
-
-if __name__ == '__main__':
-    print(date_after_meta_release("-5", 20))
